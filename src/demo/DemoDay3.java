@@ -3,8 +3,10 @@ package demo;
 public class DemoDay3 {
 
 //importance of following stash process && communicating... :)
-
-
-  	//Trap Note: never push conflict code...
+	
+	public static void main(String[] args) {
+		System.out.println("Team 8 demo");
+		System.out.println("Harpreet....");
+	}
 
 }
