@@ -11,8 +11,12 @@ public class DemoDay3 {
 		System.out.println("Steven...");
 		System.out.println("Hayder2...");
 
-		System.out.println("Stephanie...");
-		System.out.println("Stephanie Marrero...");
+
+		System.out.println("Hi Team...");
+
+		System.out.println("Reviewed...");
+		System.out.println("Hello...");
+
 	}
 
 }
