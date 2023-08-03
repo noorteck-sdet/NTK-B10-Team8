@@ -11,12 +11,16 @@ public class DemoDay3 {
 		System.out.println("Steven...");
 		System.out.println("Hayder2...");
 
+
 		System.out.println("Hi Team...");
 
 		System.out.println("Reviewed...");
 		System.out.println("Hello...");
-		
-		System.out.println("creating conlict");
+
+
+		System.out.println("hello...");
+		System.out.println("how are you...");
+
 	}
 
 }
