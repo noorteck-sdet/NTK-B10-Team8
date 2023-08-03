@@ -20,6 +20,8 @@ public class DemoDay3 {
 
 		System.out.println("hello...");
 		System.out.println("how are you...");
+		
+		System.out.println("Thank you guys!!");
 
 	}
 
