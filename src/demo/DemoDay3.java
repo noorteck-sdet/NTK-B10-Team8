@@ -24,7 +24,8 @@ public class DemoDay3 {
 		System.out.println("Hi Team4...");
 		System.out.println("Hi Team5...");
 
-
+		System.out.println("Hi Team4...");
+		System.out.println("Hi Team5...");
 
 	}
 
