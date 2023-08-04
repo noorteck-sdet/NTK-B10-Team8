@@ -13,6 +13,8 @@ public class DemoDay3 {
 
 
 		System.out.println("Hi Team...");
+		System.out.println("Hi Team2...");
+
 
 	}
 
