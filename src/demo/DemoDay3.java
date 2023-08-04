@@ -17,6 +17,7 @@ public class DemoDay3 {
 
 
 		System.out.println("Stephanie...");
+		System.out.println("Hello...");
 	}
 
 }
